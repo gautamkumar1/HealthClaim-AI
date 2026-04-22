@@ -1,7 +1,7 @@
-# MedClaim AI
+# HealthClaim-AI
 
 ## Overview
-MedClaim AI helps psychiatric clinicians convert notes, audio, and images into structured billing-ready drafts with coding support and risk checks.
+HealthClaim-AI helps psychiatric clinicians convert notes, audio, and images into structured billing-ready drafts with coding support and risk checks.
 
 ## Features
 - Chat-style clinical draft input with text, voice recording, and image upload.
@@ -96,8 +96,8 @@ MedClaim AI helps psychiatric clinicians convert notes, audio, and images into s
 
 ### 2) Clone and install dependencies
 ```bash
-git clone https://github.com/vikasexcel/clinical-ai-assistant.git
-cd clinical-ai-assistant
+git clone https://github.com/gautamkumar1/HealthClaim-AI.git
+cd HealthClaim-AI
 
 cd backend
 npm install
